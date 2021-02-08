@@ -1,8 +1,6 @@
 # Django Blog Web App
 Blog post web application made with Django.
 
-http://djangotwitterclonewebsite.herokuapp.com
-
 # Signup
 ![](images/Screenshot%20(123).png)
 
